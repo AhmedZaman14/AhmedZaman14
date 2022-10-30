@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmedZaman
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Small Projects
+- 👀 I’m interested in App Development and Data Analytics. 
+- 🌱 I’m a Software Engineering Student.
 
 
 <!---
