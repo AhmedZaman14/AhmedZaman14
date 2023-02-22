@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedZaman
-- 👀 I’m interested in App Development and Data Analytics. 
+- 👀 I’m interested in App Development, Data Science and Machine Learning. 
 - 🌱 I’m a Software Engineering Student.
 
 
